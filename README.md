@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://manindrasammana.com)
+[![MasterHead](https://raw.githubusercontent.com/ImVjGit/Gif/main/54b6c068097599.5b50bca476b9b.gif)](https://manindrasammana.com)
 <h1 align="center">Hi 👋, I'm Manindra Sammana</h1>
 <h3 align="center">A 16 year old teen pro developer who drank the secret sauce.</h3>
-<img align="right" alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/doejo.com/wp-content/uploads/2013/11/me-working.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevobnsu&label=Profile%20views&color=0e75b6&style=flat" alt="kevobnsu" /> </p>
 
