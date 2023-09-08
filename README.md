@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kevinparker200" target="blank"><img src="https://img.shields.io/twitter/follow/kevinparker200?logo=twitter&style=for-the-badge" alt="kevinparker200" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://manindrasammana.com/](https://manindrasammana.com/)
+- 👨‍💻 All of my projects are available at [www.manindrasammana.com/projects](https://manindrasammana.com/)
 
-- 📝 I regularly write articles on [https://manindrasammana.com/blog](https://manindrasammana.com/blog)
+- 📝 I regularly write articles on [www.manindrasammana.com/blog](https://manindrasammana.com/blog)
 
 - 📫 How to reach me **Hello.kevinparker@gmail.com**
 
