@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/ImVjGit/Gif/main/54b6c068097599.5b50bca476b9b.gif)](https://manindrasammana.com)
 <h1 align="center">Hi 👋, I'm Manindra Sammana</h1>
-<h3 align="center">A 16 year old teen pro developer who drank the secret sauce.</h3>
+<h3 align="center">I'm thrilled to have you here, exploring my projects and code. Whether you're a fellow developer, a curious learner, or simply stumbled upon my profile by chance, I hope you'll find something interesting and valuable.</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/doejo.com/wp-content/uploads/2013/11/me-working.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevobnsu&label=Profile%20views&color=0e75b6&style=flat" alt="kevobnsu" /> </p>
